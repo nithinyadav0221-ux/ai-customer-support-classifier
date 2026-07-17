@@ -1,0 +1,13 @@
+text,category,priority
+I was charged twice for my subscription,Billing,High
+My payment was deducted two times,Billing,High
+I need a refund for my order,Billing,Medium
+My password reset link is not working,Account,Medium
+I cannot log in to my account,Account,High
+Please help me change my email address,Account,Low
+The app crashes when I open it,Technical,High
+I see an error after updating the app,Technical,High
+The website is very slow,Technical,Medium
+Where is my order,Delivery,Medium
+My delivery has not arrived,Delivery,High
+Please track my package,Delivery,Low
