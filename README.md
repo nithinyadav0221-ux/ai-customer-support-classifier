@@ -27,3 +27,8 @@ An end-to-end machine learning and NLP project that analyzes customer-support ti
 
 ```powershell
 .\.venv\Scripts\python.exe -m streamlit run app.py
+
+## Live Demo
+
+[Open the live app]https://nithin-ai-support-classifier.streamlit.app
+
